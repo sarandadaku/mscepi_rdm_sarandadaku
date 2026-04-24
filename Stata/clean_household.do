@@ -36,4 +36,6 @@ replace regcode = 2 if regcode == 20
 summarize
 
 // Save the dataset
+comment
+
 save "..\data\cleanStata_household_data.dta", replace

@@ -42,3 +42,4 @@ codebook urban vcode village altitude_m
 
 * Save the dataset
 save "../data/village_info_clean2025.dta", replace
+describe

@@ -12,3 +12,4 @@ describe
 
 // Save the dataset
 save "..\rdm2024_data\individual-data-2024-clean.dta", replace
+describe
